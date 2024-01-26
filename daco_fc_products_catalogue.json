@@ -1,0 +1,793 @@
+{
+  "Merchandising": {
+    "Ropa": [
+      "Camisetas oficiales de juego (local y visitante)",
+      "Sudaderas con capucha",
+      "Chaquetas",
+      "Camisetas retro con diseños antiguos",
+      "Camisetas de entrenamiento",
+      "Polos",
+      "Pantalones de chándal",
+      "Calcetines",
+      "Ropa interior",
+      "Guantes"
+    ],
+    "Libreria": [
+      "Cuadernos escolares",
+      "Mochilas escolares",
+      "Set de Utiles escolares",
+      "Lapices",
+      "Goma",
+      "Tijera",
+      "Regla",
+      "Calculadora",
+      "Carpeta"
+    ],
+    "Accesorios de cabeza": [
+      "Bufandas",
+      "Gorras",
+      "Gorros de invierno",
+      "Pañuelos"
+    ],
+    "Accesorios de llaves": [
+      "Llaveros",
+      "Llaveros con linterna",
+      "Porta llaves con forma de jugador"
+    ],
+    "Artículos para el hogar": [
+      "Tazas",
+      "Toallas de playa",
+      "Fundas de almohada",
+      "Manteles individuales",
+      "Pegatinas de pared",
+      "Toallas de mano",
+      "Manteles individuales",
+      "Pegatinas de pared"
+    ],
+    "Artículos para el escritorio": [
+      "Relojes de pulsera",
+      "Calendarios y partidos importantes",
+      "Tarjetas de felicitación",
+      "Pelotas de golf",
+      "Gemelos",
+      "Porta llaves con forma de balón de fútbol"
+    ],
+    "Artículos para viaje": [
+      "Mochilas",
+      "Bolsas de mano",
+      "Fundas de pasaporte",
+      "Bolsos de mano"
+    ],
+    "Artículos de decoración": [
+      "Pósters y jugadores destacados",
+      "Banderas",
+      "Pegatinas para decorar objetos",
+      "Cuadros y jugadores destacados",
+      "Vinilos decorativos"
+    ],
+    "Artículos para el coche": [
+      "Fundas de asiento",
+      "Cubiertas para volante",
+      "Alfombrillas para el coche",
+      "Pegatinas para ventanas"
+    ],
+    "Artículos para niños": [
+      "Peluches con la forma de la mascota del equipo",
+      "Chupetes para bebés",
+      "Ropa infantil",
+      "Juegos de mesa con temática del estadio",
+      "Camisetas de entrenamiento"
+    ],
+    "Artículos de tecnología": [
+      "Fundas de móvil",
+      "Carcasas para portátil",
+      "Auriculares",
+      "Relojes inteligentes"
+    ],
+    "Artículos para fanáticos": [
+      "Banderas grandes",
+      "Cornetas y tambores",
+      "Guirnaldas y serpentinas",
+      "Pañuelos gigantes",
+      "Máscaras y pinturas faciales"
+    ],
+    "Artículos de colección": [
+      "Figuras de acción de jugadores",
+      "Miniaturas del estadio",
+      "Cartas de colección del equipo",
+      "Monedas conmemorativas del equipo",
+      "Monedas conmemorativas del estadio"
+    ],
+    "Artículos para el entrenamiento": [
+      "Conos de entrenamiento",
+      "Escaleras de coordinación",
+      "Vallas de entrenamiento",
+      "Cuerdas de salto"
+    ],
+    "Artículos para la cocina": [
+      "Delantales",
+      "Tazas de café",
+      "Tablas de cortar",
+      "Vasos y platos"
+    ],
+    "Artículos para la oficina": [
+      "Bolígrafos",
+      "Organizadores de escritorio",
+      "Alfombrillas para el ratón",
+      "Portadocumentos"
+    ],
+    "Artículos de salud y bienestar": [
+      "Botellas de agua",
+      "Toallas deportivas",
+      "Bolsas de deporte",
+      "Bandas elásticas de entrenamiento"
+    ]
+  },
+  "Entrenamiento": {
+    "Pelotas de Entrenamiento": [
+      "Balón de fútbol profesional",
+      "Balón de fútbol para entrenamiento",
+      "Balón de fútbol sala",
+      "Balón de fútbol de playa",
+      "Balón de fútbol de entrenamiento para niños",
+      "Balón de entrenamiento de precisión",
+      "Balón de entrenamiento con peso",
+      "Balón de entrenamiento de rebote controlado"
+    ],
+    "Conos y Marcadores": [
+      "Conos de entrenamiento",
+      "Marcadores de posición",
+      "Conos de agilidad",
+      "Conos de slalom",
+      "Discos de cono"
+    ],
+    "Equipos de Resistencia": [
+      "Bandas elásticas de resistencia",
+      "Chalecos con peso",
+      "Paracaídas de resistencia",
+      "Cinturones de resistencia",
+      "Pesas para tobillos"
+    ],
+    "Escaleras de Coordinación": [
+      "Escaleras de agilidad",
+      "Escaleras de coordinación",
+      "Escaleras de velocidad con bandas ajustables"
+    ],
+    "Vallas y Aros": [
+      "Vallas de entrenamiento",
+      "Aros de entrenamiento",
+      "Vallas ajustables en altura",
+      "Aros de velocidad"
+    ],
+    "Barreras y Mini Porterías": [
+      "Barreras de obstáculos",
+      "Mini porterías",
+      "Barreras de altura ajustable",
+      "Mini porterías plegables"
+    ],
+    "Maniquíes y Dummies": [
+      "Maniquíes de defensa",
+      "Dummies de entrenamiento",
+      "Maniquíes de ataque",
+      "Dummies de finta y regate"
+    ],
+    "Picas y Postes de Entrenamiento": [
+      "Picas de entrenamiento",
+      "Postes de entrenamiento ajustables",
+      "Picas de velocidad",
+      "Postes de slalom"
+    ],
+    "Cuerdas de Salto": [
+      "Cuerdas de salto ajustables",
+      "Cuerdas de salto con contador",
+      "Cuerdas de salto ponderadas",
+      "Cuerdas de salto de velocidad"
+    ],
+    "Discos de Cono": [
+      "Discos de cono",
+      "Discos de cono con agujeros",
+      "Discos de cono plegables",
+      "Discos de cono de colores brillantes"
+    ],
+    "Equipamiento de Agilidad": [
+      "Escudos de impacto",
+      "Escudos de rebote",
+      "Escudos de golpeo",
+      "Escudos de bloqueo",
+      "Dummies de golpeo"
+    ],
+    "Equipamiento de Fuerza": [
+      "Mancuernas",
+      "Barras de pesas",
+      "Pesas rusas",
+      "Balones medicinales",
+      "Banda de resistencia"
+    ],
+    "Equipamiento de Flexibilidad": [
+      "Rodillos de espuma",
+      "Bandas de estiramiento",
+      "Pelotas de masaje",
+      "Estiradores de piernas"
+    ],
+    "Equipamiento de Rehabilitación": [
+      "Bandas de resistencia para rehabilitación",
+      "Bolas de equilibrio",
+      "Plataformas de equilibrio",
+      "Bandas elásticas de terapia"
+    ],
+    "Accesorios de Entrenamiento": [
+      "Pizarras tácticas magnéticas",
+      "Relojes deportivos y monitores de ritmo cardíaco",
+      "Cronómetros y temporizadores",
+      "Cintas métricas y calibradores de altura",
+      "Bolsas y mochilas de entrenamiento",
+      "Soportes para botellas de agua",
+      "Espejos de entrenamiento"
+    ]
+  },
+  "Equipamiento de arqueros": {
+    "Guantes de arquero": [
+      "Guantes de arquero profesionales",
+      "Guantes de arquero de entrenamiento",
+      "Guantes de arquero para partidos.",
+      "Guantes de arquero de niños"
+    ],
+    "Camisetas de arquero": [
+      "Camisetas de arquero profesionales",
+      "Camisetas de arquero de entrenamiento",
+      "Camisetas de arquero de niños"
+    ],
+    "Pantalones de arquero": [
+      "Pantalones de arquero largos",
+      "Pantalones de arquero cortos",
+      "Pantalones de arquero de niños"
+    ],
+    "Canilleras de arquero": [
+      "Canilleras de arquero con tobillera",
+      "Canilleras de arquero sin tobillera"
+    ],
+    "Calcetines de arquero": [
+      "Calcetines de arquero largos",
+      "Calcetines de arquero cortos"
+    ],
+    "botines de arquero": [
+      "botines de arquero con tacos intercambiables",
+      "botines de arquero sin tacos"
+    ],
+    "Bolsas de transporte para equipamiento de arquero": [
+      "Bolsas de arquero con ruedas",
+      "Bolsas de arquero con compartimentos separados"
+    ],
+    "Redes de portería": [
+      "Redes de portería de fútbol 7",
+      "Redes de portería de fútbol 11"
+    ],
+    "Barreras y conos para entrenamiento de arqueros": [
+      "Barreras de entrenamiento para arqueros",
+      "Conos de entrenamiento para arqueros"
+    ],
+    "Arcos y miniarcos de entrenamiento para arqueros": [
+      "Arcos de entrenamiento para arqueros de fútbol 11",
+      "Miniarcos de entrenamiento para arqueros de fútbol sala"
+    ],
+    "Accesorios para el cuidado y mantenimiento del equipamiento de arquero": [
+      "Esponjas y cepillos para limpiar los guantes",
+      "Spray desodorante para guantes de arquero",
+      "Cintas adhesivas para reparar guantes de arquero",
+      "Bolsas para guardar guantes de arquero"
+    ]
+  },
+  "Ropa de futbol": {
+    "Accesorios varios": [
+      "Gorras de protección.",
+      "Guantes de agarre antideslizante.",
+      "Bolsas de transporte para el calzado y los accesorios."
+    ],
+    "Calcetines": [
+      "Calcetines de juego con diseño específico del equipo.",
+      "Calcetines de entrenamiento para sesiones de práctica."
+    ],
+    "Calcetines de compresión": [
+      "Calcetines de compresión para mejorar la circulación y reducir la fatiga."
+    ],
+    "Camisetas de juego": [
+      "Camisetas de juego para partidos oficiales.",
+      "Camisetas de entrenamiento:",
+      "Camisetas de entrenamiento de manga corta.",
+      "Camisetas de entrenamiento de manga larga.",
+      "Camisetas de tirantes para entrenamiento en climas cálidos.",
+      "Camisetas de manga larga para entrenamiento.",
+      "Camisetas sin mangas para entrenamiento en climas cálidos.",
+      "Camisetas de entrenamiento de cuello alto.",
+      "Camisetas de entrenamiento de cuello redondo.",
+      "Camisetas de entrenamiento de manga raglán.",
+      "Camisetas de entrenamiento de manga tres cuartos."
+    ],
+    "Chaquetas": [
+      "Chalecos de entrenamiento para sesiones tácticas.",
+      "Chándales para calentamiento y entrenamiento.",
+      "Chaquetas impermeables para proteger de la lluvia.",
+      "Chaquetas acolchadas para climas fríos.",
+      "Chaquetas de presentación para eventos y viajes.",
+      "Chaquetas de punto para mantener el calor.",
+      "Chaquetas de entrenamiento con capucha.",
+      "Chaquetas de calentamiento con forro polar."
+    ],
+    "Chubasqueros": [
+      "Chubasqueros para proteger de la lluvia."
+    ],
+    "Conjuntos de ropa de viaje": [
+      "Conjuntos de ropa de viaje para desplazamientos del equipo."
+    ],
+    "Mallas de compresión": [
+      "Mallas de compresión para mejorar el rendimiento y la recuperación."
+    ],
+    "Medias de compresión": [
+      "Medias de compresión para recuperación muscular."
+    ],
+    "Pantalones cortos": [
+      "Pantalones cortos de juego.",
+      "Pantalones cortos de entrenamiento."
+    ],
+    "Pantalones largos": [
+      "Pantalones de chándal para uso casual y entrenamiento.",
+      "Pantalones largos de entrenamiento para días fríos.",
+      "Pantalones largos de calentamiento con bolsillos.",
+      "Pantalones largos de calentamiento con cintura elástica."
+    ],
+    "Polos": [
+      "Polos de entrenamiento para uso casual o formal.",
+      "Polos de presentación para eventos y entrevistas.",
+      "Polos de paseo para eventos y presentaciones."
+    ],
+    "Sudaderas": [
+      "Sudaderas con capucha para uso casual y calentamiento.",
+      "Sudaderas con cierre para mantener el calor en el banquillo.",
+      "Sudaderas sin capucha para uso casual."
+    ],
+    "Tops de compresión": [
+      "Camisetas de compresión para mejorar el rendimiento muscular.",
+      "Camisetas de compresión de manga larga.",
+      "Camisetas de compresión de manga corta.",
+      "Camisetas de compresión de manga tres cuartos."
+    ],
+    "Accesorios de cabeza": [
+      "Gorras o viseras de entrenamiento para protección solar."
+    ]
+  },
+  "Calzados": {
+    "Botines de fútbol": [
+      "Botines de fútbol de césped natural",
+      "Botines de fútbol de césped artificial",
+      "Botines de fútbol multitaco para terrenos mixtos",
+      "Botines de fútbol de sala (futsal)",
+      "Botines de fútbol de tacos intercambiables",
+      "Botines de fútbol sin tacos (suela lisa)"
+    ],
+    "Calcetines y medias": [
+      "Calcetines de fútbol altos",
+      "Calcetines de fútbol bajos",
+      "Calcetines de compresión para mejorar la circulación"
+    ],
+    "Accesorios para el calzado": [
+      "Plantillas de gel",
+      "Cordones de repuesto",
+      "Espaciadores para ajustar el tamaño",
+      "Fundas impermeables"
+    ],
+    "Bolsas y estuches": [
+      "Bolsa de transporte para Botines de fútbol",
+      "Estuche de almacenamiento"
+    ],
+    "Chanclas y sandalias": [
+      "Chanclas de ducha para utilizar en los vestuarios",
+      "Sandalias de descanso para momentos de relajación"
+    ],
+    "Zapatillas": [
+      "Zapatillas deportivas para entrenamiento fuera del campo",
+      "Zapatillas de running para sesiones de acondicionamiento físico",
+      "Zapatillas urbanas para uso diario"
+    ],
+    "Canilleras ultralivianas": [
+      "Canilleras con tobillera integrada",
+      "Canilleras ligeras y ajustadas",
+      "Canilleras de compresión"
+    ],
+    "Accesorios de limpieza": [
+      "Cepillo para limpiar las Botines de fútbol",
+      "Spray de limpieza y desinfección para el calzado",
+      "Productos para el mantenimiento del cuero o sintético"
+    ],
+    "Protectores": [
+      "Protectores de silicona para los dedos",
+      "Protectores de talón para prevenir ampollas y rozaduras"
+    ],
+    "Personalización": [
+      "Parches para personalizar las Botines de fútbol",
+      "Pegatinas y adhesivos para decorar el calzado"
+    ],
+    "Plantillas térmicas": [
+      "Plantillas térmicas para mantener los pies calientes en climas fríos"
+    ],
+    "Secado": [
+      "Secador de calzado eléctrico",
+      "Bolsas absorbentes de humedad para evitar malos olores"
+    ],
+    "Tracción": [
+      "Clavos y tapones intercambiables para Botines de fútbol",
+      "Escarificadores de suela para mejorar la tracción en terrenos embarrados"
+    ],
+    "Fundas": [
+      "Fundas para Botines de fútbol y zapatillas para guardarlas en la mochila",
+      "Fundas impermeables para proteger el calzado en condiciones de lluvia"
+    ],
+    "Relajación": [
+      "Rodillos de masaje para aliviar la tensión muscular",
+      "Pelotas de masaje para los pies"
+    ],
+    "Otros accesorios": [
+      "Calzas para mantener los pies calientes durante el descanso",
+      "Banda elástica para estirar los músculos de los pies"
+    ]
+  },
+  "Protección": {
+    "Canilleras": [
+      "Canilleras clásicas de plástico",
+      "Canilleras con acolchado interno",
+      "Canilleras con calcetín integrado",
+      "Canilleras con protección de tobillo",
+      "Canilleras con diseño personalizado"
+    ],
+    "Guantes protectores": [
+      "Guantes de arquero con palma de látex",
+      "Guantes de arquero con cierre de velcro",
+      "Guantes de arquero con protección de dedos",
+      "Guantes de arquero junior"
+    ],
+    "Protectores Bucales": [
+      "Protector bucal individual moldeable",
+      "Protector bucal con diseño personalizado",
+      "Protector bucal con estuche de almacenamiento"
+    ],
+    "Coderas": [
+      "Coderas acolchadas para protección del codo",
+      "Coderas con ajuste elástico",
+      "Coderas con diseño ligero y transpirable"
+    ],
+    "Rodilleras": [
+      "Rodilleras acolchadas para protección de rodillas",
+      "Rodilleras con diseño ergonómico",
+      "Rodilleras de compresión"
+    ],
+    "Cascos de Protección": [
+      "Casco de protección para arqueros",
+      "Casco de protección para jugadores de campo"
+    ],
+    "Muñequeras": [
+      "Muñequeras con soporte de compresión",
+      "Muñequeras con almohadilla de protección",
+      "Muñequeras con ajuste de velcro"
+    ],
+    "Tobilleras": [
+      "Tobilleras con soporte de compresión",
+      "Tobilleras con protección de esguinces",
+      "Tobilleras con ajuste de velcro"
+    ],
+    "Fajas Lumbares": [
+      "Fajas lumbares para soporte de espalda",
+      "Fajas lumbares con ajuste de compresión"
+    ],
+    "Máscaras Faciales": [
+      "Máscara facial de protección para fracturas",
+      "Máscara facial de protección para nariz y boca"
+    ],
+    "Accesorios de Compresión": [
+      "Mangas de compresión para brazos",
+      "Mangas de compresión para piernas",
+      "Calcetines de compresión"
+    ],
+    "Vendas y Cintas Adhesivas": [
+      "Vendajes elásticos para protección y soporte",
+      "Cintas adhesivas deportivas para inmovilización"
+    ],
+    "Protección de Dedos": [
+      "Dedilleras para protección de los dedos",
+      "Protector de pulgar para arqueros"
+    ],
+    "Protección de Hombros": [
+      "Hombreras para protección de hombros",
+      "Soportes de compresión para hombros"
+    ],
+    "Protección de Codos": [
+      "Codilleras para protección de codos",
+      "Coderas con soporte de compresión para codos"
+    ],
+    "Protección de Muñecas": [
+      "Muñequeras acolchadas para protección de muñecas",
+      "Muñequeras con soporte de compresión para muñecas"
+    ],
+    "Protección de Rodillas": [
+      "Rodilleras con acolchado de gel para protección de rodillas",
+      "Rodilleras con soporte de compresión para rodillas"
+    ],
+    "Protección de Tobillos": [
+      "Tobilleras con acolchado para protección de tobillos",
+      "Tobilleras con soporte de compresión para tobillos"
+    ],
+    "Protección de Cabeza": [
+      "Gorros acolchados de protección para cabeza",
+      "Gorros de compresión para protección de cabeza"
+    ],
+    "Protección de Cuello": [
+      "Collarines de protección para cuello",
+      "Collarines con soporte de compresión para cuello"
+    ],
+    "Protección de Dientes": [
+      "Protectores dentales personalizables",
+      "Protectores dentales con estuche de almacenamiento"
+    ],
+    "Protección de Tórax": [
+      "Petos acolchados para protección de tórax",
+      "Camisetas de compresión con protección de tórax"
+    ],
+    "Protección de Brazos": [
+      "Mangas acolchadas para protección de brazos",
+      "Mangas de compresión para protección de brazos"
+    ],
+    "Protección de Piernas": [
+      "Polainas acolchadas para protección de piernas",
+      "Polainas de compresión para protección de piernas"
+    ],
+    "Protección de Pies": [
+      "Plantillas acolchadas para protección de pies",
+      "Calcetines de compresión para protección de pies"
+    ],
+    "Protección de Tobillos y Talones": [
+      "Calcetines acolchados para protección de tobillos y talones",
+      "Calcetines de compresión para protección de tobillos y talones"
+    ],
+    "Protección de Dedos de los Pies": [
+      "Protectores de dedos de los pies para prevenir lesiones"
+    ]
+  },
+  "Equipamiento Arbitraje": {
+    "Silbatos": [
+      "Silbato de árbitro profesional",
+      "Silbato electrónico con diferentes tonos",
+      "Silbato de emergencia con cordón",
+      "Silbato de entrenamiento de baja frecuencia",
+      "Funda para silbato",
+      "Cordón de seguridad para silbato"
+    ],
+    "Tarjetas y Libretas": [
+      "Juego de tarjetas de colores (roja y amarilla)",
+      "Tarjetas de advertencia (amarilla)",
+      "Tarjetas de expulsión (roja)",
+      "Tarjetas de Fair Play (blanca)",
+      "Libreta de anotaciones de árbitro"
+    ],
+    "Relojes y Cronómetros": [
+      "Reloj para árbitro con funciones específicas",
+      "Cronómetro para medir el tiempo de juego",
+      "Cronómetro con pantalla digital",
+      "Reloj de pulsera con cronómetro y temporizador"
+    ],
+    "Banderas y Dispositivos de Señalización": [
+      "Juego de banderas de lineman (roja y amarilla)",
+      "Bandera de lineman con mango extensible",
+      "Vara de señalización de cambios de jugadores",
+      "Banderín de señalización de faltas"
+    ],
+    "Marcadores y Tableros": [
+      "Tablero de puntuación electrónico",
+      "Marcador manual con números intercambiables",
+      "Tarjetas de número para indicar el tiempo adicional",
+      "Tablero de visualización de sustituciones"
+    ],
+    "Vestimenta": [
+      "Camiseta de árbitro de colores distintivos",
+      "Pantalones cortos de árbitro",
+      "Calcetines de árbitro",
+      "Cinturón para árbitro",
+      "Gorra de árbitro",
+      "Medias para sujetar tarjetas"
+    ],
+    "Accesorios": [
+      "Estuche de transporte para equipamiento de árbitro",
+      "Bolsa de mano para árbitro",
+      "Funda impermeable para tarjetas",
+      "Espray para marcar distancias en faltas",
+      "Kit de primeros auxilios básico"
+    ]
+  },
+  "Nutrición deportiva": {
+    "Suplementos de proteínas": [
+      "Proteína en polvo de suero de leche",
+      "Proteína en polvo de caseína",
+      "Proteína en polvo vegetal",
+      "Barritas de proteínas",
+      "Batidos de proteínas preenvasados",
+      "Mezclas de proteínas en polvo",
+      "Proteína en polvo de huevo",
+      "Proteína en polvo de carne",
+      "Proteína en polvo de soja"
+    ],
+    "Suplementos de carbohidratos": [
+      "Polvos de carbohidratos para bebidas energéticas",
+      "Geles energéticos",
+      "Barritas energéticas",
+      "Suplementos de carbohidratos en cápsulas",
+      "Bebidas deportivas con carbohidratos",
+      "Suplementos de carbohidratos líquidos",
+      "Geles de carbohidratos con cafeína",
+      "Polvos de carbohidratos sin sabor",
+      "Barritas de carbohidratos"
+    ],
+    "Suplementos de preentrenamiento": [
+      "Suplementos de óxido nítrico",
+      "Fórmulas de preentrenamiento en polvo",
+      "Suplementos para aumentar la energía",
+      "Suplementos de creatina",
+      "Bebidas estimulantes preentrenamiento",
+      "Suplementos de beta-alanina",
+      "Suplementos de citrulina malato",
+      "Suplementos de taurina",
+      "Suplementos de arginina",
+      "Suplementos de cafeína"
+    ],
+    "Suplementos de recuperación": [
+      "Batidos de recuperación post-entrenamiento",
+      "Aminoácidos ramificados (BCAA)",
+      "Glutamina en polvo",
+      "Mezclas de recuperación muscular",
+      "Suplementos antiinflamatorios",
+      "Mezclas de aminoácidos esenciales",
+      "Suplementos de HMB",
+      "Bebidas de recuperación listas para beber",
+      "Suplementos de colina",
+      "Suplementos de MSM"
+    ],
+    "Vitaminas y minerales": [
+      "Multivitamínicos para deportistas",
+      "Suplementos de vitamina D",
+      "Suplementos de calcio",
+      "Suplementos de magnesio",
+      "Suplementos de zinc",
+      "Suplementos de vitamina C",
+      "Suplementos de vitamina B12",
+      "Suplementos de vitamina E",
+      "Suplementos de vitamina K",
+      "Suplementos de hierro"
+    ],
+    "Ácidos grasos esenciales": [
+      "Suplementos de omega-3",
+      "Aceite de pescado en cápsulas",
+      "Suplementos de aceite de krill",
+      "Suplementos de aceite de linaza",
+      "Suplementos de aceite de coco",
+      "Suplementos de GLA (ácido gamma-linolénico)",
+      "Suplementos de DHA (ácido docosahexaenoico)",
+      "Suplementos de EPA (ácido eicosapentaenoico)",
+      "Suplementos de ALA (ácido alfa-linolénico)",
+      "Suplementos de CLA (ácido linoleico conjugado)"
+    ],
+    "Suplementos para articulaciones": [
+      "Glucosamina y condroitina",
+      "Colágeno en polvo",
+      "Suplementos de MSM",
+      "Suplementos de cartílago de tiburón",
+      "Mezclas de ingredientes para articulaciones",
+      "Suplementos de ácido hialurónico",
+      "Suplementos de cúrcuma",
+      "Suplementos de bromelina",
+      "Suplementos de boswellia",
+      "Suplementos de vitamina C para articulaciones"
+    ],
+    "Suplementos para pérdida de peso": [
+      "Quemadores de grasa",
+      "Suplementos de CLA",
+      "Supresores del apetito",
+      "Bloqueadores de carbohidratos",
+      "Suplementos para controlar el apetito",
+      "Suplementos de té verde",
+      "Suplementos de cafeína",
+      "Suplementos de extracto de café verde",
+      "Suplementos de Garcinia cambogia",
+      "Suplementos de L-carnitina"
+    ],
+    "Suplementos diversos": [
+      "Suplementos de antioxidantes",
+      "Probióticos y prebióticos",
+      "Suplementos para la salud del hígado",
+      "Suplementos para la salud del corazón",
+      "Suplementos para mejorar el sueño",
+      "Suplementos para la salud ósea",
+      "Suplementos para la salud cerebral",
+      "Suplementos para la salud ocular",
+      "Suplementos para la salud inmunológica",
+      "Suplementos para el equilibrio hormonal"
+    ]
+  },
+  "Libros y revistas": {
+    "Historia del Club": [
+      "Historia del Daco FC: Desde sus raíces hasta la gloria.",
+      "Los momentos más emblemáticos del Daco FC.",
+      "Ídolos del Daco FC: Las leyendas que dejaron huella.",
+      "Daco FC: El camino hacia el éxito.",
+      "El estadio del Daco FC: Historia y evolución.",
+      "El Daco FC y sus hinchas: Una pasión inquebrantable.",
+      "Daco FC: El club que conquistó corazones.",
+      "Daco FC en Europa: Grandes actuaciones en competiciones internacionales.",
+      "El Daco FC a través de los años: Un legado eterno.",
+      "Memorias del Daco FC: Anécdotas y momentos inolvidables.",
+      "Daco FC: El resurgimiento de un gigante.",
+      "El impacto social del Daco FC: Más allá del fútbol."
+    ],
+    "Jugadores Destacados": [
+      "Íconos del Daco FC: Los jugadores más emblemáticos de la historia.",
+      "Daco FC: Grandes capitanes y líderes del equipo.",
+      "Leyendas del Daco FC: Historias de gloria y pasión.",
+      "Daco FC: Equipos campeones que dejaron huella.",
+      "El legado de los delanteros del Daco FC.",
+      "El mediocampo mágico del Daco FC: Jugadores que marcaron época.",
+      "Defensas legendarios del Daco FC: La fortaleza en la cancha.",
+      "Daco FC: arqueros inolvidables que protegieron la portería.",
+      "Jóvenes promesas del Daco FC: Futuras estrellas en ascenso.",
+      "Daco FC femenino: Historias de éxito en el fútbol femenino.",
+      "El Daco FC y la selección nacional: Una conexión especial.",
+      "Daco FC: Los extranjeros que dejaron su huella."
+    ],
+    "Equipos y Partidos Memorables": [
+      "Daco FC vs. Rivalidad histórica: Las batallas en el campo.",
+      "Partidos legendarios del Daco FC: Épicas remontadas y victorias históricas.",
+      "Los clásicos del Daco FC: Pasión y rivalidad en el fútbol local.",
+      "El Daco FC en finales: Historias de gloria y momentos dramáticos.",
+      "El Daco FC en torneos internacionales: Participaciones destacadas.",
+      "Partidos históricos del Daco FC: Duelos inolvidables.",
+      "El equipo invencible del Daco FC: La temporada perfecta.",
+      "Grandes remontadas del Daco FC: Nunca rendirse.",
+      "Daco FC en la Copa Nacional: Campeonatos y gestas inolvidables.",
+      "Los momentos más emocionantes del Daco FC en Europa.",
+      "Las victorias más abrumadoras del Daco FC: Goleadas memorables."
+    ],
+    "Historias de los Hinchas": [
+      "Daco FC: Relatos de amor y pasión de los hinchas.",
+      "Hinchadas del Daco FC: Historias de fidelidad y apoyo incondicional.",
+      "Viajando con el Daco FC: Relatos de hinchas en las rutas del equipo.",
+      "Daco FC: El impacto de los hinchas en el club.",
+      "Historias de hinchas famosos del Daco FC.",
+      "Daco FC: La voz de los hinchas en las gradas.",
+      "El Daco FC en la comunidad: Acciones solidarias y responsabilidad social.",
+      "El Daco FC y sus hinchadas en el mundo: Una pasión global.",
+      "Daco FC: Relatos de hinchas más antiguos y fieles.",
+      "La cultura de las peñas del Daco FC: Una hermandad inquebrantable."
+    ],
+    "Tácticas y Estrategias": [
+      "Daco FC: Tácticas y esquemas que hicieron historia.",
+      "Entrenadores emblemáticos del Daco FC y sus filosofías.",
+      "El estilo de juego del Daco FC: Pasión, intensidad y ataque.",
+      "Daco FC: Estrategias defensivas que desafiaron a los rivales.",
+      "El arte de la táctica en el Daco FC: Claves para el éxito.",
+      "Daco FC: Formaciones tácticas que cambiaron el juego.",
+      "Daco FC: Transiciones rápidas y contragolpes letales.",
+      "Estrategias de presión del Daco FC: El dominio en el campo.",
+      "La filosofía de juego del Daco FC: Un enfoque ofensivo.",
+      "Daco FC: Secretos tácticos revelados por los expertos.",
+      "Entrenamiento del Daco FC: Métodos y rutinas para el éxito.",
+      "Daco FC: Preparación física y mental de los jugadores."
+    ],
+    "Historia del Estadio y la Afición": [
+      "El estadio del Daco FC: Un templo de pasión y emociones.",
+      "Daco FC: La construcción del estadio y su impacto en la ciudad.",
+      "El Daco FC y su afición: Historias de lealtad y comunión.",
+      "El estadio lleno de recuerdos: Los momentos más memorables del Daco FC.",
+      "Daco FC: La experiencia en el estadio desde la perspectiva de los hinchas.",
+      "El estadio del Daco FC en imágenes: Un legado visual.",
+      "Daco FC: Los cánticos y rituales de la afición.",
+      "La pasión del Daco FC en casa y en la ruta: Viajando con la afición.",
+      "El estadio del Daco FC en la historia del fútbol local.",
+      "Daco FC: La relación especial entre el estadio y la afición.",
+      "La energía de la afición del Daco FC: Creando un ambiente inigualable."
+    ]
+  }
+}
